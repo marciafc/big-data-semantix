@@ -70,15 +70,12 @@ show databases;
 +----------------+
 1 row selected (0.965 seconds)
 
-
-# 4. Criar a Tabela Hive no BD <nome>
-
-# Criando database
+# Criando database <nome>
 create database marcia;
 
 No rows affected (0.765 seconds)
 
-# Exbindo databases
+# Exibindo databases
 0: jdbc:hive2://localhost:10000> show databases;
 +----------------+
 | database_name  |
@@ -87,6 +84,9 @@ No rows affected (0.765 seconds)
 | marcia         |
 +----------------+
 2 rows selected (0.024 seconds)
+
+
+# 4. Criar a Tabela Hive no BD <nome>
 
 # Selecionando o database
 use marcia;
