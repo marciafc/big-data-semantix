@@ -78,11 +78,20 @@
   - Replicação e Fragmentação dos Dados
   
     - Replica Set
+	
+	  - Visualizar configuração do Replica Set: rs.conf()
+	  
+	  - Verificar o status do Replica Set: rs.status()
+	  
+	  - Configuração https://docs.mongodb.com/manual/tutorial/deploy-replica-set/
+	  
+	
 	- Shard
+	
+	  - https://docs.mongodb.com/manual/sharding/
   
-  - MongoDB Cloud
-  
-    - MongoDB Atlas
+  - MongoDB Cloud    
+	  
 	
   - Certificação
   
