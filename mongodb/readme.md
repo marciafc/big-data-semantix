@@ -73,7 +73,7 @@
     - Agregações de Match, Group, Sort e Limit
   
     - Agregação com Lookup e project
-
+	
   
   - Replicação e Fragmentação dos Dados
   
