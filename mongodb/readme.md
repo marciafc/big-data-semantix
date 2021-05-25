@@ -91,6 +91,8 @@
 	  - https://docs.mongodb.com/manual/sharding/
   
   - MongoDB Cloud    
+  
+    - MongoDB Atlas
 	  
 	
   - Certificação
